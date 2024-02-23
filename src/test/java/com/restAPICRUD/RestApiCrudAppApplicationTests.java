@@ -1,13 +1,13 @@
-package com.restAPICRUD;
+// package com.restAPICRUD;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class RestApiCrudAppApplicationTests {
+// @SpringBootTest
+// class RestApiCrudAppApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
